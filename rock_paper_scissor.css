@@ -1,0 +1,62 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 160px;
+    background-color:rgb(219, 181, 176);
+    margin: auto;
+    border-radius: 10px;
+    border-width: 100px;
+    
+}
+
+h1{
+    color: aliceblue;
+    background-color: rgb(32, 149, 172); 
+    background-size: 300px 100px;
+    width: 500px; 
+    margin: 0 auto;
+    font-size: xx-large;
+    font:bolder;
+    font-style: monospace;
+}
+
+#rock{
+    color: white;
+    background-color:rgb(225, 115, 75);
+    width: 500px; 
+    margin: 0 auto; 
+    font-size: xx-large;
+    }
+    
+#paper{
+    color: white;
+    background-color: rgb(56, 118, 226);
+    width: 500px; 
+    margin: 0 auto;
+    font-size: xx-large;
+}
+
+#scissors{
+    color: white;
+    background-color: rgb(29, 204, 178);
+    width: 500px; 
+    margin: 0 auto;
+    font-size: xx-large;
+}
+.choice {
+    cursor: pointer;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 1px;
+}
+.scoreboard{
+    font-size: x-large;
+}
+.result{
+    font-size: x-large;
+}
+
+
